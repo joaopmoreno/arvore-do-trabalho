@@ -14,4 +14,4 @@ A pesquisa foi ampliada para as nove fichas. Foram consultadas fontes públicas 
 
 ## 4. Revisão e entrega
 
-A imagem anexada foi incluída no repositório como registro visual. O README apresenta a árvore e dá acesso à pesquisa e ao processo de elaboração. [Ver a imagem da árvore](arvore-genealogica.png)
+A imagem anexada foi incluída no repositório como registro visual. O README apresenta a árvore e dá acesso à pesquisa e ao processo de elaboração. [Ver a imagem da árvore](arvore.png)
